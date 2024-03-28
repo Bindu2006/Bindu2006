@@ -4,5 +4,4 @@ Hi this is Bindu Sathwika 👋
 -🌱&nbsp; Present learning basics like Git and linux
 -💞️&nbsp; Reach me on [My profile](https://github.com/Bindu2006)
 ## Languages
-https://img.shields.io/badge/C_-language-green.svc  
-https://img.shields.io/badge/HTML-yellow.svc
+[C](https://img.shields.io/npm/v/npm.svg?logo=C)
